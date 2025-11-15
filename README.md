@@ -2,4 +2,4 @@
 it is just simple name lister app via streamlit
 
 
-[**Click Link**](https://basicnamelister---pyhton-8nnhykbh9njxopqu95ce9y.streamlit.app/)
+[**Click Link**](https://k-karimli-name-lister.streamlit.app/)
